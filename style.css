@@ -1,11 +1,11 @@
 a {
 	color: white;
-	padding-left: 35px;
+	padding-left: 25px;
 	margin-left: 0px;
 	text-decoration: none;
 	font-size: 18px;
-	text-align: left;
 	font-family: Verdana, Geneva, Tahoma, sans-serif;
+	margin-bottom: 15px;
 
 }
 
@@ -38,11 +38,18 @@ footer {
 }
 
 header {
-	padding: 15px 0;
+	padding-right: 0px 0;
 	background-color: black;
 	padding-left: 30px;
-	height: 30%;
-	border-top: ;
+	height: 50%;
+	margin-bottom: 15px;
+}
+
+header .logo {
+	padding-left: 0;
+	width: 100px;
+	height: 100%;
+	
 }
 
 img {
@@ -56,10 +63,5 @@ pre {
 	text-align: center;
 }
 
-header .logo {
-	padding-left: 0%;
-}
 	
-
-
 
